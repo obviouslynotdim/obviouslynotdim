@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlrcnlkZnIyODViZnhseTY3eXJ6eHZka2J4MXp6bjZxeDBodm1uaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckrHIRy17v7WegEq9P/giphy.gif" width="80px" style="vertical-align: middle;"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZqaTVldzNkM29wODM2ajFjaDNidW8wNHYybjlqNWVyM2VudTgzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kyFpOXvDtvgEXV95uH/giphy.gif" width="80px" style="vertical-align: middle;"/>
   👋 Hey, I'm Setha Vathanak!
 </h1>
 
